@@ -1,0 +1,22 @@
+{
+  "name": "ak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharmaAshok6171/ak.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SharmaAshok6171/ak/issues"
+  },
+  "homepage": "https://github.com/SharmaAshok6171/ak#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
